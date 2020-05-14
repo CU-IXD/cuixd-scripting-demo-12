@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name":"Product A",
+            "price":10.00,
+            "description":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet, dui sed hendrerit euismod, diam nibh consequat ipsum, sed facilisis sapien justo in quam. Donec tincidunt mollis tortor, eget vehicula felis scelerisque ac. Donec et eleifend justo. Morbi faucibus enim nec neque dignissim, eu semper lectus posuere.</p>"
+        },
+        {
+            "name":"Product B",
+            "price":12.00,
+            "description":"<p>Mauris et quam consequat est maximus eleifend. Aliquam vel porta eros, vitae accumsan ante. Nulla et mi est. Morbi vel eros aliquam, posuere sapien ut, finibus velit. Nulla facilisi.</p><p>Morbi quis semper metus. Maecenas commodo porttitor sollicitudin. Donec dignissim urna id magna efficitur rhoncus.</p>"
+        },
+        {
+            "name": "Product C",
+            "price": 8.00,
+            "description": "<p>Nunc malesuada lectus eget lectus dapibus, nec suscipit eros aliquet. Aliquam suscipit, augue efficitur ullamcorper gravida, augue lorem blandit ipsum, ac euismod nisl turpis nec mi. Phasellus semper et ligula tempus auctor.</p>"
+        }
+    ]
+}
